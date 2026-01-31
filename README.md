@@ -181,7 +181,7 @@ Result: Venn diagram showing programming language overlaps
 
 ## 📋 Requirements
 
-See [requirements.txt](requirements.txt) for full dependency list:
+See [requirements.txt](requirements.txt) for full dependency list: install in computer system python 3.12 or above version must be needed for run this and ide vscode , pycharm etc ... any of them you can use .
 
 ```
 streamlit
