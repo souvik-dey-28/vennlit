@@ -49,16 +49,6 @@ VennLit is a simple yet powerful tool built with Streamlit that helps you create
 
 ---
 
-## Demo
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vennlit.streamlit.app/)
-
-## GitHub Codespaces
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/dataprofessor/vennlit?quickstart=1)
-
----
-
 ## 📦 Installation
 
 ### Prerequisites
